@@ -1,2 +1,2 @@
-# my_first_repo
-First Repository
+# repo_sample
+Sample Repo
